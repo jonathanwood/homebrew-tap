@@ -3,7 +3,7 @@ class GoTask < Formula
   homepage "https://github.com/go-task/task"
   url "https://github.com/go-task/task/releases/download/v2.1.0/task_darwin_amd64.tar.gz"
   version "2.1.0"
-  sha256 "a03791d2444621eb6985a60b954c235e7eb760f466045d321bee04487fe779f3"
+  sha256 "7732a9ec1a901f9b44174d29541f9bab4ab9ee7d036058a59cbc8f34fd2a2d27"
 
   def install
     bin.install "task"
